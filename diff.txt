@@ -1,0 +1,9 @@
+diff --git a/class.txt b/class.txt
+index 38ca873..977d50d 100644
+--- a/class.txt
++++ b/class.txt
+@@ -11,4 +11,3 @@ Fuchsia
+ Purple
+ Brown
+ Red
+-Dark blue
