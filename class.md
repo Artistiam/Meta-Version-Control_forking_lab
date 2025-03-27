@@ -34,7 +34,7 @@ Read the instructions of this file in the README.md
   - [Brent](https://github.com/brent0w) Backend Development
   - [Brian](https://github.com/bchakanyuka) Meta Front-End Development
   - [Bindu](https://github.com/Bindu3192) Meta Front-End Development
-
+  - [Brian] Awesome Ville, Data Engineering
 - ### **C**
 
   - [Constance](https://github.com/coco390) Frontend Development
